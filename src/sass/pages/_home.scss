@@ -1,0 +1,29 @@
+.ecommer {
+    display: flex;
+    width: 100%;
+    max-width: 155px;
+    background: #FFFFFF;
+    box-shadow: 0px 19px 60px rgba(0, 0, 0, 0.08);
+    border-radius: 7px;
+    border: 1px solid #fb982f;
+    padding: 10px;
+    font-size: 16px;
+    color: #5290FD;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ecommer:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.heroimg {
+    display: flex;
+    width: 410px;
+    border-radius: 50%;
+    margin-left: -110px;
+}
